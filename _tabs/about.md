@@ -34,5 +34,3 @@ Whether you want to talk about Bash scripts, kernel tuning, or building data lak
 
 * **GitHub:** [zoydtc](https://github.com/zoydtc)
 * **LinkedIn:** [Zoyia Melton](https://www.linkedin.com/in/zoyiam)
-* **GitHub:** [zoydtc](https://github.com/zoydtc)
-* **LinkedIn:** [Zoyia Melton](https://www.linkedin.com/in/zoyiam)
