@@ -8,19 +8,18 @@ order: 4
 
 # Hi, I'm Zoyia Melton 👋
 
-## From Systems to Streams 🚀
+## From Systems to Data Pipeline 🚀
 
-I am an **Infrastructure Engineer & Linux System Administrator** with a deep background in managing stable, scalable systems. Currently, I am expanding my expertise into the world of **Data Engineering** through the **DataTalksClub DE Zoomcamp**.
+I am an Infrastructure Engineer and Linux System Administrator with a strong foundation in building and operating stable, scalable production systems. I am currently expanding my skill set into Data Engineering through the DataTalksClub Data Engineering Zoomcamp, with a focus on designing and operating modern, cloud-native data platforms.**DataTalksClub DE Zoomcamp**.
 
 ### 🛠️ Why Data Engineering?
-Throughout my career as a Linux Admin, I've managed the servers that hold the data. Now, I’m moving "up the stack" to architect the pipelines that move, transform, and analyze it. My goal is to combine my infrastructure "muscles" with modern data tooling to build production-grade data platforms.
+Throughout my career in infrastructure and Linux administration, I have been responsible for the reliability and performance of the systems that store and serve data. Now, I am moving “up the stack” to design the pipelines that ingest, transform, and analyze that data. My goal is to combine deep infrastructure expertise with modern data tooling to build resilient, production-grade data platforms.
 
 ### 🏗️ My Technical Toolkit
 Coming from an Infrastructure background, I specialize in:
-* **OS & Scripting:** Expert Linux Administration (RHEL/Ubuntu), Bash, and Python.
+* **OS & Scripting:** Linux Administration (RHEL/Ubuntu), Bash, and Python.
 * **Virtualization & Containers:** Docker, Docker Compose, and Kubernetes.
-* **Infrastructure as Code:** Terraform (the backbone of my DE Zoomcamp labs).
-* **Cloud:** GCP/AWS environment hardening and resource management.
+* **Cloud:** AWS/Azure environment hardening and resource management.
 
 ### 🎓 The Zoomcamp Journey
 I am currently documenting my progress on this blog as I master:
@@ -31,7 +30,7 @@ I am currently documenting my progress on this blog as I master:
 5. **Distributed Processing** (Spark & Kafka)
 
 ### 📫 Let's Connect
-Whether you want to talk about Bash scripts, kernel tuning, or building data lakes, feel free to reach out!
+If you’re interested in topics ranging from Linux internals and automation to building scalable data pipelines and platforms, feel free to connect.
 
 * **GitHub:** [zoydtc](https://github.com/zoydtc)
 * **LinkedIn:** [Zoyia Melton](https://www.linkedin.com/in/zoyiam)
