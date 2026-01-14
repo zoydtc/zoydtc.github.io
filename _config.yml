@@ -37,6 +37,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Zoyia Melton
   email: zoydatatalksclub@gmail.com # change to your email address
+  rss: false
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
