@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-{: .prompt-tip }
+
 
 # Hi, I'm Zoyia Melton 👋
 
