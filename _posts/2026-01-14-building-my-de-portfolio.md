@@ -6,7 +6,7 @@ tags: [github-pages, jekyll, chirpy, documentation]
 ---
 
 ## Why I'm building this blog
-As I start the **DataTalksClub Data Engineering Zoomcamp**, I wanted a place to document my technical progress and share the challenges I overcome. This blog serves as my digital resume and a log of my engineering journey.
+As I begin the **DataTalksClub Data Engineering Zoomcamp**, I wanted a dedicated space to document my technical growth and share the challenges I work through along the way. This blog serves both as a digital portfolio and as a living record of my engineering journey, showcasing hands-on projects, lessons learned, and the evolution of my skills in data and infrastructure engineering.
 
 ## The Tech Stack
 To build this site, I chose:
@@ -31,10 +31,3 @@ This is the beginning of my journey, and I look forward to sharing what I learn 
 
 ## What's Next?
 Next up is **Week 1 of the Zoomcamp**, where I'll be diving into Docker and Terraform to set up my data infrastructure on GCP!
-
-
-
-
-
-## What's Next?
-Next up is **Week 1 of the Data Engineering Zoomcamp**, where I'll be diving into Docker and Terraform to set up my data infrastructure on GCP!
