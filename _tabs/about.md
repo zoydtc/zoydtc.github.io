@@ -9,8 +9,7 @@ order: 4
 # Hi, I'm Zoyia Melton 👋
 
 ## From Systems to Data Pipeline 🚀
-
-I am an Infrastructure Engineer and Linux System Administrator with a strong foundation in building and operating stable, scalable production systems. I am currently expanding my skill set into Data Engineering through the DataTalksClub Data Engineering Zoomcamp, with a focus on designing and operating modern, cloud-native data platforms.**DataTalksClub DE Zoomcamp**.
+I am an Infrastructure Engineer and Linux System Administrator with a strong foundation in building and operating stable, scalable production systems. I am currently expanding my skill set into Data Engineering through the **DataTalksClub DE Zoomcamp**, with a focus on designing and operating modern, cloud-native data platforms.
 
 ### 🛠️ Why Data Engineering?
 Throughout my career in infrastructure and Linux administration, I have been responsible for the reliability and performance of the systems that store and serve data. Now, I am moving “up the stack” to design the pipelines that ingest, transform, and analyze that data. My goal is to combine deep infrastructure expertise with modern data tooling to build resilient, production-grade data platforms.
