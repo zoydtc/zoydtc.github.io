@@ -14,3 +14,6 @@ order: 1
 ## Technical Skills
 * **Languages:** Python, SQL, Bash
 * **Tools:** Docker, Terraform, GCP, Mage, BigQuery
+* **Operating Systems:** Linux (RHEL, CentOS, Alma, Ubuntu,Fedora), AIX, Solaris, HP-UX
+* **Cloud Platforms:** AWS, Azure
+* **Automation Platform:** Anible, Puppet
