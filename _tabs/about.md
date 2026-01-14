@@ -18,7 +18,7 @@ Throughout my career in infrastructure and Linux administration, I have been res
 Coming from an Infrastructure background, I specialize in:
 * **OS & Scripting:** Linux Administration (RHEL/Ubuntu), Bash, and Python.
 * **Virtualization & Containers:** Docker, Docker Compose, and Kubernetes.
-* **Cloud:** AWS/Azure environment hardening and resource management.
+* **Cloud:** AWS and Azure environment hardening and resource management.
 
 ### 🎓 The Zoomcamp Journey
 I am currently documenting my progress on this blog as I master:
