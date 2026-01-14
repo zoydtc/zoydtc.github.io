@@ -1,13 +1,13 @@
 ---
-# the default layout is 'page'
+layout: page
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-
 # Hi, I'm Zoyia Melton 👋
 
-# From Systems to Streams 🚀
+## From Systems to Streams 🚀
 
 I am an **Infrastructure Engineer & Linux System Administrator** with a deep background in managing stable, scalable systems. Currently, I am expanding my expertise into the world of **Data Engineering** through the **DataTalksClub DE Zoomcamp**.
 
@@ -32,5 +32,7 @@ I am currently documenting my progress on this blog as I master:
 ### 📫 Let's Connect
 Whether you want to talk about Bash scripts, kernel tuning, or building data lakes, feel free to reach out!
 
+* **GitHub:** [zoydtc](https://github.com/zoydtc)
+* **LinkedIn:** [Zoyia Melton](https://www.linkedin.com/in/zoyiam)
 * **GitHub:** [zoydtc](https://github.com/zoydtc)
 * **LinkedIn:** [Zoyia Melton](https://www.linkedin.com/in/zoyiam)
