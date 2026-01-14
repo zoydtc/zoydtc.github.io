@@ -15,19 +15,21 @@ To build this site, I chose:
 * **GitHub Actions**: To automate the deployment process.
 
 ## Key Challenges
-Setting up the deployment workflow was the most interesting part. I had to configure `pages-deploy.yml` to handle the theme compilation and ensure the GitHub Pages environment was set to **GitHub Actions** rather than the default builder.
-The setup process was more challenging than I initially expected. I encountered issues related to:
+Designing and stabilizing the deployment workflow proved to be the most engaging part of the setup. This required configuring pages-deploy.yml to handle theme compilation and explicitly setting the **GitHub Pages** environment to use GitHub Actions rather than the default build engine.
 
-- Understanding Jekyll’s project structure and configuration  
-- Correctly setting up and customizing the Chirpy theme  
-- Resolving build and dependency errors  
-- Configuring GitHub Pages and CI pipelines for successful deployment  
-- Debugging failed builds caused by small syntax or configuration mistakes ultimately having to delete and try it again
+The overall setup was more involved than anticipated, particularly in the following areas:
 
-While these challenges were sometimes frustrating, they were also highly educational. The process strengthened my understanding of how static sites are built and deployed, how CI/CD workflows function, and how to troubleshoot infrastructure-related issues—skills that are directly relevant to a career in data engineering, platform engineering, and DevOps.
-This blog will serve as a technical journal throughout the Data Engineering Zoomcamp and beyond. I plan to use it to document hands-on projects, architectural concepts, and lessons learned while working with data pipelines, cloud services, orchestration tools, and analytics systems.
-Building the blog itself became my first real-world exercise in infrastructure setup and deployment. It reinforced an important lesson: learning happens most effectively when you step outside of guided tutorials and start building real systems, even when things break along the way.
-This is the beginning of my journey, and I look forward to sharing what I learn as I continue to grow in the field of data engineering.
+- Gaining familiarity with Jekyll’s project structure and configuration model
+- Installing, configuring, and customizing the Chirpy theme  
+- Resolving build-time and dependency-related issues 
+- Configuring GitHub Pages and CI/CD pipelines for reliable, repeatable deployments
+- Troubleshooting failed builds caused by minor syntax and configuration errors, in some cases requiring a full rebuild of the site to reestablish a clean, working state
+
+While occasionally frustrating, these challenges were ultimately valuable and instructive. The process deepened my understanding of how static sites are built and deployed, how DNS and hosting integrate, and how CI/CD workflows operate in practice.
+
+This blog will serve as a technical journal throughout the Data Engineering Zoomcamp and beyond. I will use it to document hands-on projects, architectural patterns, and lessons learned while designing and operating data pipelines, cloud infrastructure, orchestration platforms, and analytics systems.
+
+This marks the beginning of a focused learning and build journey, and I look forward to sharing practical insights as I continue to develop deeper expertise in data engineering and platform architecture.
 
 ## What's Next?
 Next up is **Week 1 of the Zoomcamp**, where I'll be diving into Docker and Terraform to set up my data infrastructure on GCP!
