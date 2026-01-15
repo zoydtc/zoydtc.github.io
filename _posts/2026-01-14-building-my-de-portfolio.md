@@ -1,35 +1,88 @@
 ---
-title: Building a Data Engineering Portfolio with Jekyll and Chirpy
+title: Building My Cloud, DevOps & MLOps Engineering Portfolio
 date: 2026-01-14 12:00:00 +0000
-categories: [General, Portfolio]
-tags: [github-pages, jekyll, chirpy, documentation]
+categories: [Portfolio, Cloud]
+tags: [github-pages, jekyll, chirpy, devops, ci-cd, cloud, infrastructure-as-code]
 ---
 
-## Why I'm building this blog
-As I begin the **DataTalksClub Data Engineering Zoomcamp**, I wanted a dedicated space to document my technical growth and share the challenges I work through along the way. This blog serves both as a digital portfolio and as a living record of my engineering journey, showcasing hands-on projects, lessons learned, and the evolution of my skills in data and infrastructure engineering.
+## Why I Built This Engineering Portfolio  
 
-## The Tech Stack
-To build this site, I chose:
-* **Jekyll**: A static site generator that plays perfectly with GitHub.
-* **Chirpy Theme**: A highly customized, mobile-friendly theme designed for technical writing.
-* **GitHub Actions**: To automate the deployment process.
+This site exists for one reason: **to show how I build real systems.**
 
-## Key Challenges
-Designing and stabilizing the deployment workflow proved to be the most engaging part of the setup. This required configuring pages-deploy.yml to handle theme compilation and explicitly setting the **GitHub Pages** environment to use GitHub Actions rather than the default build engine.
+I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps, and MLOps engineering** through hands-on projects, structured training, and production-style implementations. Rather than keeping that work private, I’m documenting it in public — not as a learning diary, but as a **working technical portfolio**.
 
-The overall setup was more involved than anticipated, particularly in the following areas:
+The DataTalksClub Data Engineering Zoomcamp is one of the structured programs guiding this journey, but the scope of this blog goes far beyond a single course. Here you’ll find cloud infrastructure, CI/CD pipelines, data platforms, automation workflows, and AI experiments built on Linux-based systems.
 
-- Gaining familiarity with Jekyll’s project structure and configuration model
-- Installing, configuring, and customizing the Chirpy theme  
-- Resolving build-time and dependency-related issues 
-- Configuring GitHub Pages and CI/CD pipelines for reliable, repeatable deployments
-- Troubleshooting failed builds caused by minor syntax and configuration errors, in some cases requiring a full rebuild of the site to reestablish a clean, working state
+---
 
-While occasionally frustrating, these challenges were ultimately valuable and instructive. The process deepened my understanding of how static sites are built and deployed, how DNS and hosting integrate, and how CI/CD workflows operate in practice.
+## The Platform Behind This Site  
 
-This blog will serve as a technical journal throughout the Data Engineering Zoomcamp and beyond. I will use it to document hands-on projects, architectural patterns, and lessons learned while designing and operating data pipelines, cloud infrastructure, orchestration platforms, and analytics systems.
+This site itself is a real DevOps project.
 
-This marks the beginning of a focused learning and build journey, and I look forward to sharing practical insights as I continue to develop deeper expertise in data engineering and platform architecture.
+It is built and deployed using:
 
-## What's Next?
-Next up is **Week 1 of the Zoomcamp**, where I'll be diving into Docker and Terraform to set up my data infrastructure on GCP!
+- **Jekyll** — static site generator used in production environments  
+- **Chirpy** — a developer-focused theme with CI/CD and SEO built in  
+- **GitHub Actions** — full CI/CD pipeline for automated builds and deployments  
+- **GitHub Pages** — cloud hosting with automated publishing  
+
+Every commit triggers a build, dependency resolution, static site compilation, and deployment — just like a production delivery pipeline.
+
+---
+
+## What I Solved to Make It Work  
+
+Getting this site live wasn’t just clicking “enable GitHub Pages.” It required:
+
+- Understanding Jekyll’s configuration model and project structure  
+- Integrating the Chirpy theme into a GitHub Pages–compatible pipeline  
+- Configuring GitHub Actions to handle Ruby dependencies and builds  
+- Debugging YAML, bundler, and CI failures caused by small syntax and config issues  
+- Rebuilding broken pipelines and restoring stable deployments  
+
+These are the same types of problems that appear in real DevOps and platform engineering work: dependency conflicts, CI failures, environment mismatches, and brittle configuration.
+
+Fixing them required careful debugging, reproducibility, and automation — exactly the mindset needed for cloud engineering.
+
+---
+
+## What This Blog Will Contain  
+
+This is not a course notebook.  
+This is a **portfolio of working systems.**
+
+Here you’ll see:
+
+- Cloud infrastructure built with **Terraform**
+- Data platforms using **BigQuery, Spark, Mage, and dbt**
+- CI/CD pipelines and automation with **GitHub Actions**
+- Linux-based deployments
+- MLOps and AI workflow experiments  
+
+Some projects will be guided by the Zoomcamp. Others will be independent builds designed to mimic production engineering environments.
+
+---
+
+## Why This Matters  
+
+Employers don’t hire based on what you’ve watched — they hire based on what you’ve built.
+
+Every post here will tie back to:
+- Architecture  
+- Automation  
+- Reliability  
+- Reproducibility  
+- Real engineering decisions  
+
+This blog is how I prove my transition from **Linux infrastructure** to **Cloud, DevOps, and MLOps engineering** with public, verifiable work.
+
+---
+
+## What’s Next  
+
+The first major build starts with **containerized data pipelines and infrastructure as code** — using Docker and Terraform to deploy real cloud-hosted systems.
+
+From there, this portfolio will grow into full cloud platforms, CI/CD pipelines, and AI-driven workflows.
+
+This is the first commit in that journey.
+
