@@ -5,28 +5,62 @@ order: 4
 ---
 
 
+# Hi, I’m Zoyia Melton 👋  
 
-# Hi, I'm Zoyia Melton 👋
+### From Linux Infrastructure to Cloud, DevOps & MLOps 🚀  
 
-### From Systems to Data Pipeline 🚀
-I am an Infrastructure Engineer and Linux System Administrator with a strong foundation in building and operating stable, scalable production systems. I am currently expanding my skill set into Data Engineering through the **DataTalksClub DE Zoomcamp**, with a focus on designing and operating modern, cloud-native data platforms.
+I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps, and MLOps engineering** through hands-on projects, certifications, and production-style systems. After years of building and operating enterprise platforms, I’m now focused on designing, automating, and scaling modern cloud and data systems.
 
-### 🛠️ Why Data Engineering?
-Throughout my career in infrastructure and Linux administration, I have been responsible for the reliability and performance of the systems that store and serve data. Now, I am moving “up the stack” to design the pipelines that ingest, transform, and analyze that data. My goal is to combine deep infrastructure expertise with modern data tooling to build resilient, production-grade data platforms.
+This site is my technical portfolio — a place where I document **real systems I build**, not just coursework.
 
-### 🏗️ My Technical Toolkit
-Coming from an Infrastructure background, I specialize in:
-* **OS & Scripting:** Linux Administration (RHEL/Ubuntu), Bash, and Python.
-* **Virtualization & Containers:** Docker, Docker Compose, and Kubernetes.
-* **Cloud:** AWS and Azure environment hardening and resource management.
+---
 
-### 🎓 The Zoomcamp Journey
-I am currently documenting my progress on this blog as I master:
-1. **Containerized Data Ingestion** (Docker & Postgres)
-2. **Infrastructure Provisioning** (Terraform)
-3. **Workflow Orchestration** (Mage/Airflow)
-4. **Data Warehousing** (BigQuery & dbt)
-5. **Distributed Processing** (Spark & Kafka)
+### 🛠 Why Cloud, DevOps & MLOps?  
+
+My career has always centered on keeping critical systems reliable, secure, and scalable. That same mindset now drives how I approach cloud platforms, CI/CD pipelines, data infrastructure, and machine learning workflows.  
+
+Instead of only maintaining servers, I now build:
+- Cloud infrastructure with **Terraform**
+- Automated delivery pipelines with **GitHub Actions**
+- Data platforms with **BigQuery, Spark, and Mage**
+- MLOps and AI workflows that run on Linux-based cloud systems  
+
+My goal is to combine deep infrastructure experience with modern cloud and data tooling to create **production-grade platforms**.
+
+---
+
+### 🧰 My Technical Toolkit  
+
+I work across the full stack of modern engineering platforms:
+
+- **Linux & Automation:** RHEL, Ubuntu, Bash, Python  
+- **Containers & Orchestration:** Docker, Docker Compose, Kubernetes  
+- **Cloud & IaC:** GCP, AWS, Terraform  
+- **Data & MLOps:** BigQuery, Spark, Mage, dbt, ML pipelines  
+- **CI/CD & DevOps:** GitHub Actions, automation, monitoring  
+
+---
+
+### 🧪 What I’m Building  
+
+This blog documents my journey through structured training like the **DataTalksClub Data Engineering Zoomcamp** along with independent projects that reflect real-world engineering work, including:
+
+- Cloud-hosted data pipelines  
+- Infrastructure-as-code deployments  
+- CI/CD workflows  
+- Scalable data platforms  
+- AI and MLOps experiments  
+
+Every post is designed to show **how systems are built, deployed, and operated**, not just how tools are installed.
+
+---
+
+### 📫 Let’s Connect  
+
+If you’re interested in cloud platforms, Linux-based systems, data engineering, DevOps, or MLOps, I’d love to connect.
+
+- **GitHub:** https://github.com/zoydtc  
+- **LinkedIn:** https://www.linkedin.com/in/zoyiam  
 
 ### 📫 Let's Connect
 If you’re interested in topics ranging from Linux internals and automation to building scalable data pipelines and platforms, feel free to connect.
