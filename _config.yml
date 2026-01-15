@@ -16,8 +16,8 @@ timezone: America/New_York
 
 title: Zoyia Melton  # the main title
 
-tagline: Cloud, DevOps and MLOps Engineer in Transition
-Linux-based systems, Terraform, data pipelines, and CI/CD projects
+tagline: "Cloud, DevOps and MLOps Engineer in Transition — Linux-based systems, Terraform, data pipelines, and CI/CD projects"
+
 
 description: >-
   Documenting my technical growth across cloud, data engineering, DevOps, and MLOps—starting with DataTalksClub and expanding into real-world production systems.
