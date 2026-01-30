@@ -1,5 +1,5 @@
 ---
-title: Building My Cloud, Platform Engineering Portfolio
+title: Building My Cloud, DevOps/MLOps, Platform Engineering Portfolio
 date: 2026-01-14 12:00:00 +0000
 categories: [Portfolio, Cloud]
 tags: [github-pages, jekyll, chirpy, devops, ci-cd, cloud, infrastructure-as-code]
@@ -9,7 +9,7 @@ tags: [github-pages, jekyll, chirpy, devops, ci-cd, cloud, infrastructure-as-cod
 
 This site exists for one reason: **to show how I build real systems.**
 
-I’m a senior Linux and infrastructure engineer transitioning into **Cloud, Platform engineering** through hands-on projects, structured training, and production-style implementations. Rather than keeping that work private, I’m documenting it in public — not as a learning diary, but as a **working technical portfolio**.
+I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps/MLOps, Platform engineering** through hands-on projects, structured training, and production-style implementations. Rather than keeping that work private, I’m documenting it in public — not as a learning diary, but as a **working technical portfolio**.
 
 The DataTalksClub Data Engineering Zoomcamp is one of the structured programs guiding this journey, but the scope of this blog goes far beyond a single course. Here you’ll find cloud infrastructure, CI/CD pipelines, data platforms, automation workflows, and AI experiments built on Linux-based systems.
 
