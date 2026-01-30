@@ -9,13 +9,13 @@ order: 4
 
 ### From Linux Infrastructure to Cloud, DevOps & MLOps 🚀  
 
-I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps, and MLOps engineering** through hands-on projects, certifications, and production-style systems. After years of building and operating enterprise platforms, I’m now focused on designing, automating, and scaling modern cloud and data systems.
+I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps, and Platform engineering** through hands-on projects, certifications, and production-style systems. After years of building and operating enterprise platforms, I’m now focused on designing, automating, and scaling modern cloud and data systems.
 
 This site is my technical portfolio — a place where I document **real systems I build**, not just coursework.
 
 ---
 
-### 🛠 Why Cloud, DevOps & MLOps?  
+### 🛠 Why Cloud, DevOps/MLOps & Platform Engineering?  
 
 My career has always centered on keeping critical systems reliable, secure, and scalable. That same mindset now drives how I approach cloud platforms, CI/CD pipelines, data infrastructure, and machine learning workflows.  
 
