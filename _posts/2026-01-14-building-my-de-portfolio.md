@@ -1,5 +1,5 @@
 ---
-title: Building My Cloud, DevOps & MLOps Engineering Portfolio
+title: Building My Cloud, Platform Engineering Portfolio
 date: 2026-01-14 12:00:00 +0000
 categories: [Portfolio, Cloud]
 tags: [github-pages, jekyll, chirpy, devops, ci-cd, cloud, infrastructure-as-code]
@@ -9,7 +9,7 @@ tags: [github-pages, jekyll, chirpy, devops, ci-cd, cloud, infrastructure-as-cod
 
 This site exists for one reason: **to show how I build real systems.**
 
-I’m a senior Linux and infrastructure engineer transitioning into **Cloud, DevOps, and MLOps engineering** through hands-on projects, structured training, and production-style implementations. Rather than keeping that work private, I’m documenting it in public — not as a learning diary, but as a **working technical portfolio**.
+I’m a senior Linux and infrastructure engineer transitioning into **Cloud, Platform engineering** through hands-on projects, structured training, and production-style implementations. Rather than keeping that work private, I’m documenting it in public — not as a learning diary, but as a **working technical portfolio**.
 
 The DataTalksClub Data Engineering Zoomcamp is one of the structured programs guiding this journey, but the scope of this blog goes far beyond a single course. Here you’ll find cloud infrastructure, CI/CD pipelines, data platforms, automation workflows, and AI experiments built on Linux-based systems.
 
@@ -59,13 +59,11 @@ Here you’ll see:
 - Linux-based deployments
 - MLOps and AI workflow experiments  
 
-Some projects will be guided by the Zoomcamp. Others will be independent builds designed to mimic production engineering environments.
+Some projects will be guided by the DataTalks Zoomcamp. Others will be independent builds designed to mimic production engineering environments.
 
 ---
 
-## Why This Matters  
-
-Employers don’t hire based on what you’ve watched — they hire based on what you’ve built.
+## My Posts
 
 Every post here will tie back to:
 - Architecture  
@@ -74,7 +72,7 @@ Every post here will tie back to:
 - Reproducibility  
 - Real engineering decisions  
 
-This blog is how I prove my transition from **Linux infrastructure** to **Cloud, DevOps, and MLOps engineering** with public, verifiable work.
+This blog is how I demonstrate technical skills in **Linux infrastructure**, **Cloud, Platform engineering** with public, verifiable work.
 
 ---
 
