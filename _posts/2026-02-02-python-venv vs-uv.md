@@ -1,5 +1,5 @@
 ---
-title: Python Virtual Environments: venv vs uv
+title: "Python Virtual Environments: venv vs uv"
 date: 2026-02-02 10:00:00 -0500
 categories: [Python, Data Engineering]
 tags: [venv, uv, zoomcamp]
