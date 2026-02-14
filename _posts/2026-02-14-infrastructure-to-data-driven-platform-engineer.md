@@ -1,8 +1,11 @@
 ---
-title: "My Decision: Choosing Data Engineering as an Infrastructure Engineer"
-date: 2026-02-14 10:00:00 -0500
+title: "From Infrastructure Engineer to Data-Driven Platform Engineer"
+date: 2026-02-14 00:01:00 -0500
 categories: [Data Engineering, Platform Engineering]
 tags: [data-engineering, platform-engineering, infrastructure-engineer, data-platforms, workflow-orchestration, data-pipelines, cloud-engineering, reliability-engineering, modern-data-platforms]
+description: "How an Infrastructure Engineer evolved toward data engineering by building scalable, reliable, data-driven platforms and workflows."
+toc: true
+pin: true
 ---
 
 Obtaining data engineering skills as an Infrastructure Engineer has fundamentally reshaped how I think about building and operating platforms.
