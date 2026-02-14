@@ -13,8 +13,6 @@ tags:
   - reliability-engineering
   - modern-data-platforms
 description: "How an Infrastructure Engineer evolved toward data engineering by building scalable, reliable, data-driven platforms and workflows."
-toc: true
-pin: true
 ---
 
 Obtaining data engineering skills as an Infrastructure Engineer has fundamentally reshaped how I think about building and operating platforms.
